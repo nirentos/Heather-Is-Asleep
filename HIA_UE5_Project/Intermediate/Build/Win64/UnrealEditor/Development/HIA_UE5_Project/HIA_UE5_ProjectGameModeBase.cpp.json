@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\programs\\unreal engine\\projects\\heather_is_asleep\\heather is asleep\\hia_ue5_project\\source\\hia_ue5_project\\hia_ue5_projectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\programs\\unreal engine\\projects\\heather_is_asleep\\heather is asleep\\hia_ue5_project\\intermediate\\build\\win64\\hia_ue5_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\programs\\unreal engine\\projects\\heather_is_asleep\\heather is asleep\\hia_ue5_project\\intermediate\\build\\win64\\unrealeditor\\development\\hia_ue5_project\\definitions.hia_ue5_project.h",
+            "e:\\programs\\unreal engine\\projects\\heather_is_asleep\\heather is asleep\\hia_ue5_project\\source\\hia_ue5_project\\hia_ue5_projectgamemodebase.h",
+            "e:\\programs\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\programs\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\programs\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\programs\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\programs\\unreal engine\\projects\\heather_is_asleep\\heather is asleep\\hia_ue5_project\\intermediate\\build\\win64\\unrealeditor\\inc\\hia_ue5_project\\hia_ue5_projectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Programs\\Unreal Engine\\Projects\\Heather_Is_Asleep\\Heather Is Asleep\\HIA_UE5_Project\\Source\\HIA_UE5_Project\\HIA_UE5_Project.Build.cs",
+		"E:\\Programs\\Unreal Engine\\Projects\\Heather_Is_Asleep\\Heather Is Asleep\\HIA_UE5_Project\\Source\\HIA_UE5_Project.Target.cs",
+		"E:\\Programs\\Unreal Engine\\Projects\\Heather_Is_Asleep\\Heather Is Asleep\\HIA_UE5_Project\\Source\\HIA_UE5_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

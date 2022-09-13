@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HIA_UE5_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\HIA_UE5_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\HIA_UE5_Project.cpp.obj"
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\HIA_UE5_ProjectGameModeBase.cpp.obj"
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\HIA_UE5_ProjectGameModeBase.gen.cpp.obj"
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\HIA_UE5_Project.init.gen.cpp.obj"
+"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\Default.rc2.res"
+/OUT:"E:\Programs\Unreal Engine\Projects\Heather_Is_Asleep\Heather Is Asleep\HIA_UE5_Project\Intermediate\Build\Win64\UnrealEditor\Development\HIA_UE5_Project\UnrealEditor-HIA_UE5_Project.lib"

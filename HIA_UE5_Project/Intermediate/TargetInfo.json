@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HIA_UE5_Project",
+			"Path": "E:\\Programs\\Unreal Engine\\Projects\\Heather_Is_Asleep\\Heather Is Asleep\\HIA_UE5_Project\\Source\\HIA_UE5_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HIA_UE5_ProjectEditor",
+			"Path": "E:\\Programs\\Unreal Engine\\Projects\\Heather_Is_Asleep\\Heather Is Asleep\\HIA_UE5_Project\\Source\\HIA_UE5_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
